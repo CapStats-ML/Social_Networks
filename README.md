@@ -1,13 +1,3 @@
----
-title: "README"
-author: "Cesar Prieto, Alejandro Urrego"
-date: "`r Sys.Date()`"
-output: html_document
-editor_options:
-   markdown:
-     wrap: sentence
----
-
 # Repository of Statistical Analysis of Social Networks
 
 Welcome to the Social Networks repository.
