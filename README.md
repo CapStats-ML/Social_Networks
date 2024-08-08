@@ -1,43 +1,17 @@
-# Repository of Statistical Analysis of Social Networks
+# Repositorio de Análisis Estadístico de Redes Sociales
 
-Welcome to the Social Networks repository.
-This space is dedicated to the study, analysis and application of techniques related to the analysis of Social Networks.
-From basic models to advanced approaches, this repository provides resources, tools, and examples for understanding and working with relational data.
+Bienvenido al repositorio de Redes Sociales. Este espacio está dedicado al estudio, análisis y aplicación de técnicas relacionadas con el análisis de Redes Sociales. Desde modelos básicos hasta enfoques avanzados, este repositorio proporciona recursos, herramientas y ejemplos para entender y trabajar con datos relacionales. 
 
-## What will you find here?
+Todo el desarrollo aquí encontrado se realizo en conjunto con el compañero de clase [Alejandro Urrego](https://github.com/aurreg)
 
-### Documentation:
+## ¿Qué encontrarás aquí?
 
-- Guides and tutorials on key concepts in Social Network analysis.
+El desarrollo más importante de la asignatura se dío en terminos practicos a travez de los talleres propuestos por el docente.
 
-- References to bibliography and useful resources to delve deeper into the topic.
+- Taller 1 - INTRODUCCIÓN, GESTIÓN Y CONCEPTOS PRELIMINARES (Cal. 4.7) [Link](https://github.com/CapStats-ML/Social_Networks/blob/master/Talleres/Taller1/redes-taller%201-Alejandro%20Urrego%20-Cesar%20Prieto.ipynb)
+- Taller 2 - CONCEPTOS DE TEORIA DE GRAFOS, VISUALIZACION Y CARACTERIZACION (Cal. 4.7) [Link](https://github.com/CapStats-ML/Social_Networks/blob/master/Talleres/Taller2/redes%20-%20taller%202%20-%20Alejandro%20Urrego%20-%20Cesar%20Prieto.ipynb)
+- Taller 3 - EXPLORACION DE LAS CARACTERISTICAS DE LOS GRAFOS (Cal. 5.0) [Link](https://github.com/CapStats-ML/Social_Networks/blob/master/Talleres/Taller3/redes-taller3-Alejandro%20Urrego-%20Cesar%20Prieto.ipynb)
+- Taller 4 - MINI PROYECTO, ANALISIS DE TEXTO USANDO BI-GRAMAS PARA EL CASO 3 DEL CONFLICTO ARMADO (Cal. 4.75) [Link](https://github.com/CapStats-ML/Social_Networks/blob/master/Talleres/Taller4/redes-taller4-Alejandro%20Urrego-Cesar_Prieto.pdf)
+- Taller 5 - MINI PROYECTO, REDES DE COLABORACION ENTRE PROFESORES DE LOS DEPARTAMENTOS DE CIENCIAS (Cal. NA) [Link](https://github.com/CapStats-ML/Social_Networks/blob/master/Talleres/Taller5/redes%20-%20taller%205%20-%20Alejandro%20Urrego%20-%20Cesar%20Prieto%20(1).pdf)
 
-### Group Projects:
-
-- Space to collaborate on group projects related to Social Networks.
-
-- ideas, code and results with your classmates.
-
-### Individual Projects:
-
-- Opportunities to develop and share individual projects.
-
-- Explore specific areas of interest or apply particular techniques to unique data sets.
-
-### Example Code:
-
-- Implementations of algorithms and common methods in the analysis of Social Networks.
-
-- Clean, well-documented code examples to help you get started quickly.
-
-### Additional Resources:
-
-- Links to libraries, tools and data sets relevant to Social Network analysis.
-
-- Complementary material to strengthen your skills and knowledge.
-
-## Collaboration
-
-We encourage you to contribute and collaborate in this repository!
-If you have ideas, improvements, or projects you want to share, feel free to submit a Pull Request or open an Issue.
-This space is for the academic community to grow and learn together.
+Por otra parte, el desarrollo del proyecto titulado "Análisis de Redes Bipartitas en Series de Anime: Impacto de las Descripciones en la Conexión Anime-Anime mediante Bigramas, Clustering de Tópicos y Modelos de Grafos Aleatorios Exponenciales" se puede encontrar en el repositorio [Link](https://github.com/aurreg/Anime-Network-Project)
